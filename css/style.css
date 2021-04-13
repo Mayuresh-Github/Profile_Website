@@ -21,7 +21,7 @@
 }
 
 #contact {
-  height: 100vh;
+  height: 85vh;
 }
 
 section {
@@ -57,6 +57,7 @@ section {
 	}
 
 	#home {
+		margin: 10% 10% -20% 10%;
 		color: #E6E6FA;
 		text-align: center;
 	}
@@ -67,17 +68,19 @@ section {
 	}
 
 	#blog {
+		margin: -20% 0% 0% 0%;
 		text-align: center;
 		color: #E6E6FA;
 	}
 
 	#projects {
+		margin: -10% 0% 0% 0%;
 		color: #E6E6FA;
 	}
 
 	.emsg {
 		padding-top: -30px;
-		padding-bottom: 40px;
+		margin-bottom: 0;
 		color: #00FFFF; 
 		font-size: 17px;
 	}
